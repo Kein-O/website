@@ -1,11 +1,11 @@
 ---
 title: Extensions
-description: List of available extensions to use with Tachiyomi, you can download them from here or from the app.
-lang: en-US
+description: Can you add this site https://teamxmanga.com ?.
+lang: ar-SA
 ---
 
 # Extensions
 
-List of available extensions to use with Tachiyomi, you can download them from here or from the app.
+Can you add this site https://teamxmanga.com ?..
 
 <ExtensionsWrapper/>
